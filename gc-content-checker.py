@@ -58,4 +58,4 @@ def process_fasta(filename):
 
 if __name__=="__main__":
     #Pass the actual filename  as a string in quotes here
-    process_fasta("sequence.fasta")    #This can be any FASTA file according to name
+    process_fasta("sequence.fasta")    #This can be used for any FASTA file
