@@ -58,4 +58,7 @@ def process_fasta(filename):
 
 if __name__=="__main__":
     #Pass the actual filename  as a string in quotes here
+
     process_fasta("sequence.fasta")    #This can be used for any FASTA file (change the name accordingly)
+    process_fasta("Mus musculus FGFR3 gene.fasta")    #This can be any FASTA file according to name (any fasta file can be used if present in same directory)
+
