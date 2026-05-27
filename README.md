@@ -43,8 +43,5 @@ This project can be used for:
 - Learning biological data processing using Python
 
 ## Author
-<<<<<<< HEAD
 Neil George
-=======
-Neil George
->>>>>>> gc_content
+
